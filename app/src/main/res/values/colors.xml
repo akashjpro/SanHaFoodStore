@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="primary_900">#0B5031</color>
+    <color name="primary_800">#0E6A46</color>
+    <color name="primary_700">#118359</color>
+    <color name="primary_600">#13A56B</color>
+    <color name="primary_500">#16BF7D</color>
+    <color name="primary_400">#32D191</color>
+    <color name="primary_300">#5FE3A6</color>
+    <color name="primary_200">#8DF5BA</color>
+    <color name="primary_100">#BAFFD0</color>
+    <color name="primary_50">#E6FFEA</color>
+
+    <!-- Secondary colors -->
+    <color name="secondary_900">#370617</color>
+    <color name="secondary_800">#6A0417</color>
+    <color name="secondary_700">#9D0208</color>
+    <color name="secondary_600">#D00000</color>
+    <color name="secondary_500">#DC2F02</color>
+    <color name="secondary_400">#E85D04</color>
+    <color name="secondary_300">#F48C06</color>
+    <color name="secondary_200">#FAA307</color>
+    <color name="secondary_100">#FFBA08</color>
+    <color name="secondary_50">#FFF3BF</color>
+
+    <!-- Neutral colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
